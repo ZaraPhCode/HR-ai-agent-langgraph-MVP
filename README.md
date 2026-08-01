@@ -128,7 +128,7 @@ Set `LLM_PROVIDER` in `.env` to one of: `openai`, `claude`, `groq`, or `mock`
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hr-agent-langgraph.git
+git clone https://github.com/ZaraPhCode/HR-ai-agent-langgraph-MVP.git
 cd hr-agent-langgraph
 ```
 
@@ -386,12 +386,6 @@ Set `LLM_PROVIDER=mock` to run without API calls for testing.
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
----
-
-## 📄 License
-
-MIT License – see [LICENSE](LICENSE) file for details.
 
 ---
 
